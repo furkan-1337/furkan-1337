@@ -2,7 +2,7 @@
 
 # Merhaba, Ben Furkan 👋
 
-C# Developer olarak yazılım geliştirme alanında çalışıyorum. Ankara'da yaşıyorum ve açık kaynak projelere katkıda bulunmayı seviyorum.
+C# Developer olarak yazılım geliştirme alanında çalışıyorum.
 
 </div>
 
