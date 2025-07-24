@@ -1,16 +1,37 @@
-## Hi there 👋
+# Merhaba, Ben Furkan 👋
 
-<!--
-**furkan-1337/furkan-1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C# Developer olarak yazılım geliştirme alanında çalışıyorum.
 
-Here are some ideas to get you started:
+## 🚀 Hakkımda
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **C#** ve **.NET** ile uygulama geliştiriyorum
+- 🔧 Şu anda **FOG (Furkan's Object Grammar)** projesi üzerinde çalışıyorum
+- 📚 Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum
+- 🌟 Açık kaynak projelere katkıda bulunuyorum
+
+## 🛠️ Teknolojiler
+
+- **Diller:** C#
+- **Framework:** .NET Framework, .NET Core
+- **UI:** WinForms, WPF
+- **Araçlar:** Visual Studio, Git
+
+## 📈 GitHub İstatistikleri
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=furkan-1337&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+</div>
+
+## 🏆 Öne Çıkan Projeler
+
+- **[FOG](https://github.com/furkan-1337/fog)** - .NET uygulamaları için hafif konfigürasyon dosyası parser'ı
+
+## 📫 İletişim
+
+- **GitHub:** [@furkan-1337](https://github.com/furkan-1337)
+- **Discord:** furkan.1337
+---
+
+<div align="center">
+  <i>Kod yazmak, problem çözmek ve öğrenmek benim tutkum!</i>
+</div>
