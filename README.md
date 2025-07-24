@@ -1,11 +1,14 @@
+<div align="center">
+
 # Merhaba, Ben Furkan 👋
 
-C# Developer olarak yazılım geliştirme alanında çalışıyorum.
+C# Developer olarak yazılım geliştirme alanında çalışıyorum. Ankara'da yaşıyorum ve açık kaynak projelere katkıda bulunmayı seviyorum.
+
+</div>
 
 ## 🚀 Hakkımda
 
 - 💻 **C#** ve **.NET** ile uygulama geliştiriyorum
-- 🔧 Şu anda **FOG (Furkan's Object Grammar)** projesi üzerinde çalışıyorum
 - 📚 Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum
 - 🌟 Açık kaynak projelere katkıda bulunuyorum
 
