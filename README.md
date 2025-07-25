@@ -34,7 +34,7 @@ C# Developer olarak yazılım geliştirme alanında çalışıyorum.
 ## 📫 İletişim
 
 - **GitHub:** [@furkan-1337](https://github.com/furkan-1337)
-- **Discord:** furkan.1337
+- **Discord:** lufzys1337
 ---
 
 <div align="center">
