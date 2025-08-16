@@ -1,20 +1,27 @@
 <div align="center">
 
-# Merhaba, Ben Furkan 👋
+# Hello, I'm Furkan 👋
 
-C# Developer olarak yazılım geliştirme alanında çalışıyorum.
+I’m a C# Developer working in software development.  
+🌐 [Portfolio](https://furkan-1337.github.io)
 
-🌐 [Portföyüm](https://furkan-1337.github.io)
+---
 
-## 🛠️ Teknolojiler
+## 🛠️ Technologies & Tools
 
-- **Diller:** C#
-- **Framework:** .NET Framework, .NET Core
-- **UI:** WinForms, WPF
-- **Araçlar:** Visual Studio, Git
+**Languages:** C#  
+**Frameworks:** .NET Framework, .NET Core  
+**UI:** WinForms, WPF  
+**Tools:** Visual Studio, Git
 
-## 📈 GitHub İstatistikleri
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkan-1337&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-</div>
+## 📈 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=furkan-1337&show_icons=true&locale=en&layout=compact" alt="furkan-1337 Top Languages" />
+</p>
+
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=furkan-1337&show_icons=true&locale=en" alt="furkan-1337 Stats" />
+</p>
