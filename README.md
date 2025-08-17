@@ -16,6 +16,13 @@ I’m a C# Developer working in software development.
 
 ---
 
+## 📚 Featured Article
+
+Check out my latest Medium article:  
+🌟 [Yapay Zekânın Evrimi: Geçmişi, Bugünü ve Geleceği](https://medium.com/@furkan-1337/yapay-zek%C3%A2n%C4%B1n-evrimi-ge%C3%A7mi%C5%9Fi-bug%C3%BCn%C3%BC-ve-gelece%C4%9Fi-6a877d8dfff3)
+
+---
+
 ## 📈 GitHub Stats
 
 <p>
