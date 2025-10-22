@@ -9,7 +9,7 @@ I’m a C# Developer working in software development.
 
 ## 🛠️ Technologies & Tools
 
-**Languages:** C#  
+**Languages:** C#, C++, Python  
 **Frameworks:** .NET Framework, .NET Core  
 **UI:** WinForms, WPF  
 **Tools:** Visual Studio, Git
