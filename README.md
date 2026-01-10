@@ -54,21 +54,6 @@
 | [**ImWindow**](https://github.com/furkan-1337/ImWindow) | Lightweight wrapper for creating **DirectX 11 + ImGui** applications easily. | `C++` |
 
 </div>
-
-<br/>
-
-<!-- GitHub Stats -->
-<h2 align="center">📈 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furkan-1337&show_icons=true&theme=midnight-purple&bg_color=050505&title_color=ff0055&icon_color=aa00ff&text_color=ffffff&border_color=331020" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furkan-1337&layout=compact&theme=midnight-purple&bg_color=050505&title_color=ff0055&icon_color=aa00ff&text_color=ffffff&border_color=331020" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=furkan-1337&theme=darkhub&no-frame=true&margin-w=15" />
-</div>
-
 <br/>
 
 <div align="center">
