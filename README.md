@@ -10,11 +10,8 @@
   <br/>
 
   <!-- Socials -->
-  <a href="https://your-portfolio-url.com">
+  <a href="furkan-1337.github.io">
     <img src="https://img.shields.io/badge/Portfolio-FF0055?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:contact@example.com">
-    <img src="https://img.shields.io/badge/Email-101010?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 </div>
