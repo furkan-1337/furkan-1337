@@ -10,7 +10,7 @@
   <br/>
 
   <!-- Socials -->
-  <a href="furkan-1337.github.io">
+  <a href="https://furkan-1337.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF0055?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 
