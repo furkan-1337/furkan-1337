@@ -1,4 +1,3 @@
-<!-- Header -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,25,30&height=300&section=header&text=Hello%20World&fontSize=90&fontAlignY=35&desc=I%20am%20Furkan&descAlignY=55&descSize=30&animation=fadeIn" alt="Header" width="100%"/>
 </div>
@@ -9,7 +8,6 @@
 
   <br/>
 
-  <!-- Socials -->
   <a href="https://furkan-1337.github.io/">
     <img src="https://img.shields.io/badge/Portfolio-FF0055?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
@@ -18,7 +16,6 @@
 
 <br/>
 
-<!-- About -->
 <h2 align="center">⚡ About Me</h2>
 
 <p align="center">
@@ -28,7 +25,6 @@
 
 <br/>
 
-<!-- Tech Stack -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
@@ -37,7 +33,6 @@
 
 <br/>
 
-<!-- Projects -->
 <h2 align="center">🔮 Featured Projects</h2>
 
 <div align="center">
@@ -51,6 +46,27 @@
 | [**ImWindow**](https://github.com/furkan-1337/ImWindow) | Lightweight wrapper for creating **DirectX 11 + ImGui** applications easily. | `C++` |
 
 </div>
+
+<br/>
+
+<h2 align="center">🧠 AI & Research</h2>
+
+<div align="center">
+  <a href="https://medium.com/@furkan-1337/yapay-zekânın-evrimi-geçmişi-bugünü-ve-geleceği-6a877d8dfff3" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Yapay_Zekânın_Evrimi-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Article" />
+  </a>
+  <a href="https://www.youtube.com/watch?v=E8KA-IU2uOQ" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-AI_ESP_Cheat_Detection-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video" />
+  </a>
+
+  <p align="center">
+    <br/>
+    <a href="https://www.youtube.com/watch?v=E8KA-IU2uOQ">
+      <img src="https://img.youtube.com/vi/E8KA-IU2uOQ/maxresdefault.jpg" width="600" style="border-radius: 15px; border: 2px solid #F70055;" alt="AI Cheat Detection Video" />
+    </a>
+  </p>
+</div>
+
 <br/>
 
 <div align="center">
