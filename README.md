@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=3000&pause=1000&color=F70055&center=true&vCenter=true&width=500&lines=System+Developer;C%23+%26+C%2B%2B+Wizard;DirectX+Enthusiast;Reverse+Engineering)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=30&duration=3000&pause=1000&color=F70055&center=true&vCenter=true&width=500&lines=System+Developer;C%23+%26+C%2B%2B+Wizard;Reverse+Engineering)](https://git.io/typing-svg)
 
   <br/>
 
@@ -58,13 +58,6 @@
   <a href="https://www.youtube.com/watch?v=E8KA-IU2uOQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-AI_ESP_Cheat_Detection-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Video" />
   </a>
-
-  <p align="center">
-    <br/>
-    <a href="https://www.youtube.com/watch?v=E8KA-IU2uOQ">
-      <img src="https://img.youtube.com/vi/E8KA-IU2uOQ/maxresdefault.jpg" width="600" style="border-radius: 15px; border: 2px solid #F70055;" alt="AI Cheat Detection Video" />
-    </a>
-  </p>
 </div>
 
 <br/>
